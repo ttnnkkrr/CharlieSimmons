@@ -3,6 +3,7 @@
 
     $id = $request['id'];
     $result = query($conn, "SELECT * FROM testdb WHERE id = $id");
+php refactor.php
 
 
 2. Given the following, What is the value of $b, what is the value of $a, why is that the value?
