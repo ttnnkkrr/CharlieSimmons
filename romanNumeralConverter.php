@@ -6,11 +6,13 @@
  * Date: 1/1/17
  * Time: 3:21 PM
  */
-include 'CLI_GET.php';
+include 'cli_get.php';
 // Create a lookup array that contains all of the Roman numerals.
 $model = empty($_GET['model']) ? [] : json_decode($_GET['model'], true);
+$convertToRoman = filter_var($_GET['convert'], FILTER_SANITIZE_NUMBER_INT);
+if(empty($convertToRoman)){die("You need to pass the 'convert' param\nTry 'php romanNumeralConverter.php convert=45'\n");}
 $whenInRome = new romanNumeralConverter($model);
-var_dump($whenInRome->integerToRoman(filter_var($_GET['convert'], FILTER_SANITIZE_NUMBER_INT)));
+var_dump($whenInRome->integerToRoman($convertToRoman));
 
 
 /** based on some code found here  http://www.hashbangcode.com/blog/php-function-turn-integer-roman-numerals
