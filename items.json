@@ -1,0 +1,134 @@
+[
+  {
+    "FIELD1": "73-ou-XW46",
+    "FIELD2": "Apple",
+    "FIELD3": 1,
+    "FIELD4": "a"
+  },
+  {
+    "FIELD1": "67-VI-yW05",
+    "FIELD2": "Apricot",
+    "FIELD3": 7,
+    "FIELD4": "a;b"
+  },
+  {
+    "FIELD1": "42-bV-BM29",
+    "FIELD2": "Banana",
+    "FIELD3": 34,
+    "FIELD4": "x;;;"
+  },
+  {
+    "FIELD1": "10-Dx-tU76",
+    "FIELD2": "Cherry",
+    "FIELD3": 94,
+    "FIELD4": ";x"
+  },
+  {
+    "FIELD1": "33-tL-TG49",
+    "FIELD2": "Coconut Pie",
+    "FIELD3": 3,
+    "FIELD4": ""
+  },
+  {
+    "FIELD1": "76-KM-iP14",
+    "FIELD2": "Grape",
+    "FIELD3": 123,
+    "FIELD4": "category 1;category 2;category 3"
+  },
+  {
+    "FIELD1": "72-Bx-hb21",
+    "FIELD2": "Lemon",
+    "FIELD3": 645,
+    "FIELD4": "category 1;category2;my long category name;"
+  },
+  {
+    "FIELD1": "23-jo-Db50",
+    "FIELD2": "Lime Juice",
+    "FIELD3": 2,
+    "FIELD4": "xx"
+  },
+  {
+    "FIELD1": "45-fU-oJ52",
+    "FIELD2": "Apple",
+    "FIELD3": 64984654,
+    "FIELD4": "a;k;x"
+  },
+  {
+    "FIELD1": "75-AQ-Tj43",
+    "FIELD2": "Melon on a stick!",
+    "FIELD3": 231,
+    "FIELD4": "a;;b"
+  },
+  {
+    "FIELD1": "67-VI-yW05",
+    "FIELD2": "Onion",
+    "FIELD3": 7,
+    "FIELD4": "category 1"
+  },
+  {
+    "FIELD1": "33-tL-TG49",
+    "FIELD2": "Lime Juice",
+    "FIELD3": 7,
+    "FIELD4": "o;x;y"
+  },
+  {
+    "FIELD1": "80Gw-xT97",
+    "FIELD2": "Pear",
+    "FIELD3": 920,
+    "FIELD4": "a"
+  },
+  {
+    "FIELD1": "30-$o-hk99",
+    "FIELD2": "Peach",
+    "FIELD3": 321,
+    "FIELD4": "ok;xz"
+  },
+  {
+    "FIELD1": "",
+    "FIELD2": "Peach",
+    "FIELD3": 321,
+    "FIELD4": "ok;xz"
+  },
+  {
+    "FIELD1": "03-AI-fez9",
+    "FIELD2": "Pepper",
+    "FIELD3": 31,
+    "FIELD4": "wz"
+  },
+  {
+    "FIELD1": "02-hy-nb81",
+    "FIELD2": "",
+    "FIELD3": 5,
+    "FIELD4": ""
+  },
+  {
+    "FIELD1": "81-Xw-Le86",
+    "FIELD2": "Watermelon",
+    "FIELD3": null,
+    "FIELD4": "a;b;"
+  },
+  {
+    "FIELD1": "99-eJ-rz01",
+    "FIELD2": "Apple Pie",
+    "FIELD3": 0,
+    "FIELD4": "oi;xz"
+  },
+  {
+    "FIELD1": "71-DU-jw55",
+    "FIELD2": "Fish",
+    "FIELD3": -28,
+    "FIELD4": "zip;zam"
+  },
+  {
+    "FIELD1": "",
+    "FIELD2": "",
+    "FIELD3": null,
+    "FIELD4": ""
+  },
+  {
+    "FIELD1": "40-Sb-OL50",
+    "FIELD2": "Pineapple",
+    "FIELD3": 5.23,
+    "FIELD4": "foo;bar"
+  }
+]
