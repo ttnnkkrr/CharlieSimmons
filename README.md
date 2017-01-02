@@ -5,6 +5,7 @@
     $result = query($conn, "SELECT * FROM testdb WHERE id = $id");
 ```
 
+### Sample data set
 ```
 create database testdb;
 
@@ -17,7 +18,7 @@ INSERT INTO
 `testtable` (`id`, `name`, `other`, `after`) VALUES (NULL, 'ted', 'sam', 'frank');
 
 ```
-
+### Execute the solutions
 ```
 php refactor.php id=1
 ```
@@ -57,13 +58,17 @@ Example:
     - orange
     - skinny
 
-
-
+### Execute the solutions
+```
+php parseData.php resource=data/items.csv
+php parseData.php resource=data/items.xml
+php parseData.php resource=data/items.json
+```
 
 
 4. Implement a function to convert an integer to roman numeral function.  It should allow a custom format for 1 and 5 (e.g. 1=Z, 5=P).
 Bonus (optional) Use an object oriented approach.
-
+### Execute the solutions
 ```
 php romanNumeralConverter.php convert=448 'model={"M":1000,"CM":900,"D":500,"CD":400,"C":100,"XC":90,"L":50,"XL":40,"X":10,"IX":9,"V":5,"IV":4,"I":1}'
 php romanNumeralConverter.php convert=45
